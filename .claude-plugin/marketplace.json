@@ -9,10 +9,14 @@
   "plugins": [
     {
       "name": "neural-trainer",
-      "source": "https://github.com/rHedBull/ai-trainer",
       "description": "Comprehensive neural network training coach for Transformers - training, tuning, debugging, and scaling guidance",
       "version": "0.1.0",
-      "category": "development"
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rHedBull/ai-trainer.git"
+      },
+      "homepage": "https://github.com/rHedBull/ai-trainer"
     }
   ]
 }
