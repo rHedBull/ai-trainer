@@ -2,8 +2,7 @@
   "name": "neural-trainer",
   "version": "0.1.0",
   "description": "Comprehensive neural network training coach for Transformers - training, tuning, debugging, and scaling guidance",
-  "author": "hendrik",
-  "skills": "skills/",
-  "agents": "agents/",
-  "keywords": ["ml", "training", "transformers", "deep-learning", "pytorch", "fine-tuning"]
+  "author": {
+    "name": "rHedBull"
+  }
 }
