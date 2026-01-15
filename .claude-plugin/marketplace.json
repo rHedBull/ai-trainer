@@ -1,18 +1,18 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "ai-trainer-marketplace",
+  "version": "1.0.0",
+  "description": "Neural network training coach plugins",
   "owner": {
-    "name": "rHedBull",
-    "email": ""
+    "name": "rHedBull"
   },
   "plugins": [
     {
       "name": "neural-trainer",
-      "source": {
-        "type": "github",
-        "repo": "rHedBull/ai-trainer"
-      },
+      "source": "https://github.com/rHedBull/ai-trainer",
       "description": "Comprehensive neural network training coach for Transformers - training, tuning, debugging, and scaling guidance",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "category": "development"
     }
   ]
 }
