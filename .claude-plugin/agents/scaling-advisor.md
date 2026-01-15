@@ -4,6 +4,8 @@ description: >
   Scaling law expert. Use when user asks about: scaling, compute-optimal,
   model size, how big should, Chinchilla, Kaplan, tokens per parameter,
   data vs model size, compute budget, training budget, FLOPs.
+model: inherit
+color: cyan
 tools:
   - Bash
   - Read

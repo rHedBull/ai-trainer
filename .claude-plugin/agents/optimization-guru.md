@@ -4,6 +4,8 @@ description: >
   Optimizer and learning rate specialist. Use when user asks about:
   learning rate, LR, optimizer, AdamW, SGD, schedule, warmup,
   weight decay, momentum, cosine decay, linear decay, gradient clipping.
+model: inherit
+color: yellow
 tools:
   - Bash
   - Read

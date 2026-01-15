@@ -5,6 +5,8 @@ description: >
   loss stuck, NaN loss, gradient explosion, gradient vanishing, not converging,
   training unstable, training failed, training crashed, bad gradients,
   loss spike, diverging, underfitting, overfitting symptoms.
+model: inherit
+color: red
 tools:
   - Bash
   - Read

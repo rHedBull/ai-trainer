@@ -4,6 +4,8 @@ description: >
   Fine-tuning and adaptation expert. Use when user asks about:
   fine-tuning, fine tune, LoRA, QLoRA, adapter, PEFT, RLHF, DPO,
   instruction tuning, catastrophic forgetting, transfer learning.
+model: inherit
+color: green
 tools:
   - Bash
   - Read
